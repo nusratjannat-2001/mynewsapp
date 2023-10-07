@@ -1,0 +1,4 @@
+#Sat Oct 07 20:39:38 BDT 2023
+base.0=D\:\\Flutter-News-App-main\\my_news_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
