@@ -40,8 +40,9 @@ dependencies:
   http: ^1.1.0
   intl:
   cached_network_image:
-
-
+  google_sign_in: ^6.1.6
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.14.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -66,7 +67,10 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/
+    - "assets/images/login.png"
+    - "assets/images/register.png"
+    - "assets/images/splash_pic.jpg"
+    - "assets/images/category_icon.png"
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
